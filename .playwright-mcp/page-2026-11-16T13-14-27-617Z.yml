@@ -1,0 +1,44 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link [ref=e67] [cursor=pointer]:
+      - /url: https://demoqa.com
+  - generic [ref=e72]:
+    - generic [ref=e75]:
+      - generic [ref=e76]: Elements
+      - generic [ref=e88]: Forms
+      - generic [ref=e101]: Alerts, Frame & Windows
+      - generic [ref=e113]: Widgets
+      - generic [ref=e126]:
+        - generic [ref=e127] [cursor=pointer]: Interactions
+        - list [ref=e139]:
+          - listitem [ref=e140] [cursor=pointer]:
+            - link "Sortable" [ref=e141]:
+              - /url: /sortable
+          - listitem [ref=e144] [cursor=pointer]:
+            - link "Selectable" [ref=e145]:
+              - /url: /selectable
+          - listitem [ref=e148] [cursor=pointer]:
+            - link "Resizable" [ref=e149]:
+              - /url: /resizable
+          - listitem [ref=e152] [cursor=pointer]:
+            - link "Droppable" [ref=e153]:
+              - /url: /droppable
+          - listitem [ref=e156] [cursor=pointer]:
+            - link "Dragabble" [ref=e157]:
+              - /url: /dragabble
+      - generic [ref=e160]: Book Store Application
+    - generic [ref=e179]:
+      - heading "Droppable" [level=1] [ref=e180]
+      - tablist [ref=e181]:
+        - tab "Simple" [ref=e182] [cursor=pointer]
+        - tab "Accept" [active] [selected] [ref=e183] [cursor=pointer]
+        - tab "Prevent Propogation" [ref=e184] [cursor=pointer]
+        - tab "Revert Draggable" [ref=e185] [cursor=pointer]
+      - tabpanel "Accept" [ref=e192]:
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - generic [ref=e195]: Acceptable
+            - generic [ref=e196]: Not Acceptable
+          - paragraph [ref=e198]: Drop here
+  - contentinfo [ref=e65]:
+    - generic [ref=e66]: © 2013-2026 TOOLSQA.COM | ALL RIGHTS RESERVED.

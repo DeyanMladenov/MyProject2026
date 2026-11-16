@@ -1,0 +1,12 @@
+[   34470ms] [LOG] interaction @ https://demoqa.com/assets/index-D_rDx8ml.js:39
+[   35120ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js:23
+[   35155ms] [WARNING] [GPT] This ad request is subject to Google's EU User Consent Policy. An IAB TCF signal was not received. This ad request will not be eligible for personalized ads.
+https://goo.gle/gpt-message#175 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js:23
+[   35155ms] [WARNING] [GPT] This ad request is subject to Google's EU User Consent Policy. An IAB TCF signal was not received. This ad request will not be eligible for personalized ads.
+https://goo.gle/gpt-message#175 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js:23
+[   35155ms] [WARNING] [GPT] This ad request is subject to Google's EU User Consent Policy. An IAB TCF signal was not received. This ad request will not be eligible for personalized ads.
+https://goo.gle/gpt-message#175 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js:23
+[   35155ms] [WARNING] [GPT] This ad request is subject to Google's EU User Consent Policy. An IAB TCF signal was not received. This ad request will not be eligible for personalized ads.
+https://goo.gle/gpt-message#175 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js:23
+[   41977ms] [LOG] droppable @ https://demoqa.com/assets/index-D_rDx8ml.js:39
